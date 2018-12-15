@@ -20,6 +20,7 @@
     python manage.py createsuperuser        
   
 #### setup database
+    //open local postgress database
     pip install psycopg2
 
     //setup database       
