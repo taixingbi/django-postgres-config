@@ -17,11 +17,7 @@
     cd django_postgres    
 
 #### setup superuser
-    python manage.py createsuperuser
-
-
-#### setup new app
-    python manage.py startapp myapp         
+    python manage.py createsuperuser        
   
 #### setup database
     pip install psycopg2
